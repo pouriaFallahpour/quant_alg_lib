@@ -6,7 +6,7 @@ This library contains the code for implementing several quantum algorithms.
 - The coherent and fixed-point amplitude amplification of [YLC14].
 - The coherent Hamiltonian simulation of [LMR14]. 
 - The amplitude amplifcation using copies of the state instead of the creator operator
-    - It is a clever combination of [YLC14] and [LMR14]. **To see a cool application for Euclidean lattice problems, send me an email.**
+    - It is a nice combination of [YLC14] and [LMR14]. **To see a cool application for Euclidean lattice problems, send me an email.**
 
 [YLC14] Theodore J. Yoder, Guang Hao Low, and Isaac L. Chuang. Fixed-point quantum search with an optimal
 number of queries. Phys. Rev. Lett., 2014.
