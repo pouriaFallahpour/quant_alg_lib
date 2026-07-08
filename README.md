@@ -1,4 +1,4 @@
-# A library for quantum algorithms
+# An informal library for quantum algorithms
 
 This library contains the code for implementing several quantum algorithms.
 
