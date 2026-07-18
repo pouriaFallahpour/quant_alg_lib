@@ -1,6 +1,6 @@
 # An informal library for quantum algorithms
 
-This library contains the code for implementing several quantum algorithms.
+This library contains the code for implementing some quantum algorithms and is supposed to be extended.
 
 # List of algorithms
 - The coherent and fixed-point amplitude amplification of [YLC14].
